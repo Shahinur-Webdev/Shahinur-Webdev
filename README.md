@@ -14,7 +14,7 @@ Hello there, This is Shahinur. I love to code. "Code is my poetry". You'll get 1
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahinur-Webdev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ☕ Connect with me!
