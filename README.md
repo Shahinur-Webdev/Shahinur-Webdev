@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Shahinur Islam
+## I'm Shahinur Islam 👋, 
+(https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
 #### Web Designer & Front End Developer
-![Web Designer & Front End Developer](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
 
 Hello there, This is Shahinur. I love to code. "Code is my poetry". You'll get 100% quality work and on-time delivery. I have been creating websites for over 3 years in this field. I am Interested in HTML, CSS, Bootstrap, WordPress and responsive websites. I always aim to provide the best service possible. It's most important to understand your requirements. Needs & problems if needed I do call. Support is a very important thing for any project and I make sure that you'll get 100% support, satisfaction and help. Web Design & Development is my passion, my mission is to satisfy every client.
 
